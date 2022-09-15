@@ -13,7 +13,7 @@ function CardGame({imageUrl, name, ads}: Props) {
                     {name}
                 </strong>
                 <span className="text-zinc-300 text-sm block mt-1">
-                    {ads} anúncios
+                    {ads} anúncio(s)
                 </span>
             </div>
         </a>
